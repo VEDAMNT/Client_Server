@@ -1,4 +1,4 @@
-# oibsip_taskno5
+
 # Simple Client-Server Chat Application
 
 This is a basic implementation of a client-server chat application in Python. It allows multiple clients to connect to a server, send messages, and receive messages from other clients.
